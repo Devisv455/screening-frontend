@@ -1,0 +1,26 @@
+.max-w-95{
+    max-width: 95%;
+  }
+
+.custom-table-height {
+    height: 300px;
+  }
+  .name-colour {
+    color: black;
+}
+
+.clock-icon {
+  width: 20px;
+  height: 20px;
+  filter: invert(80%) grayscale(100%) brightness(40%)  sepia(100%)  hue-rotate(200deg);
+}
+.men{
+  width: 40px;
+  height:40px;
+}
+
+.calendar{
+  width: 24px;
+  height: 24px;
+  
+}

@@ -1,0 +1,19 @@
+
+.NavbarContainer {
+    background-color: whitesmoke;
+    padding: 10px 20px; 
+  }
+  
+  .Links {
+        display: flex;
+        justify-content: flex-end; 
+      
+  }
+  
+  .Links a {
+    color: black;
+    text-decoration: none; 
+    font-weight: bold; 
+    margin-right: 10px; 
+  }
+  
